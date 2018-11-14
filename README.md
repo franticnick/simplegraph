@@ -36,3 +36,24 @@ and then in your code you can do something like this:
 The result for this simple setup would be:
 
 ![Alt text](img/screenshot.jpg?raw=true "Screenshot")
+
+To include simple graph to your project, simply add next line to app's build.gradle file
+
+~~~gradle
+    implementation 'com.bandiago.libs:simplegraph:0.0.1-SNAPSHOT'
+~~~
+
+Also add repository url to project's build.gradle file
+
+~~~gradle
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        // add sonatype repository
+        maven {
+            url 'https://oss.sonatype.org/content/repositories/snapshots/'
+        }
+    }
+}
+~~~
