@@ -37,7 +37,7 @@ The result for this simple setup would be:
 
 ![Alt text](img/screenshot.jpg?raw=true "Screenshot")
 
-To include simple graph to your project, simply add next line to app's build.gradle file
+To include simple graph to your project, simply add next line to app's **build.gradle** file
 
 ~~~gradle
 dependencies {
@@ -45,7 +45,7 @@ dependencies {
 }
 ~~~
 
-Also add repository url to project's build.gradle file
+Also add sonatype snapshots repository url to project's **build.gradle** file
 
 ~~~gradle
 allprojects {
