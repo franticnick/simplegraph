@@ -7,7 +7,7 @@ I've spent so much time looking for library that does only one thing, creates si
 
 Usage is simple as posible. View takes series of float numbers (Y axis points) and drows the graph based on the values. X-axis point values are not needed since library uses same spacing between each consecutive point.
 
-To use view in your own project simply define
+To use view in your own project simply use graph view in your project, like:
 
 ~~~xml
 <com.bandiago.libs.simplegraph.LineGraph
@@ -20,7 +20,12 @@ To use view in your own project simply define
             android:background="#e2d3d3"/>
 ~~~
 
-and than in your code yuo can do something like this:
+There are two properties you can use in the view which names are self-explanatory:
+ - lineThickness
+ - lineColor
+ 
+
+and then in your code you can do something like this:
 
 ~~~kotlin
         val lineGraph = findViewById<LineGraph>(R.id.lineGraph)
