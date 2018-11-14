@@ -15,8 +15,10 @@ To use view in your own project simply use linegraph view in your project, like:
             android:id="@+id/lineGraph"
             android:layout_width="200dp"
             android:layout_height="50dp"
+            
             linegraph:lineThickness="2"
             linegraph:lineColor="#000000"
+            
             android:background="#e2d3d3"/>
 ~~~
 
