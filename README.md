@@ -35,4 +35,4 @@ and then in your code you can do something like this:
 
 The result for this simple setup would be:
 
-![Alt text](img/screenshot.jpeg?raw=true "Screenshot")
+![Alt text](img/screenshot.jpg?raw=true "Screenshot")
