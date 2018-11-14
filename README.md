@@ -7,7 +7,7 @@ Why this library is craeted? Well, I've spent too much time looking for library 
 
 Usage is simple as posible. View takes series of float numbers (Y axis points) and draws the graph. X-axis point values are not needed since library uses same spacing between each consecutive point.
 
-##Sample Usage
+## Sample Usage
 
 To use view in your own project simply use linegraph view in your project, like:
 
@@ -64,7 +64,7 @@ allprojects {
 }
 ~~~
 
-#License
+## License
 
 ~~~
 Copyright 2018 Nikola Šoljaga
