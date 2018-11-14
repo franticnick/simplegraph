@@ -20,7 +20,7 @@ To use view in your own project simply use linegraph view in your project, like:
             android:background="#e2d3d3"/>
 ~~~
 
-There are two properties you can use in the view which names are self-explanatory:
+There are two properties you can use in the view. Their names are self-explanatory:
  - lineThickness
  - lineColor
  
