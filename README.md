@@ -40,7 +40,10 @@ The result for this simple setup would be:
 To include simple graph to your project, simply add next line to app's build.gradle file
 
 ~~~gradle
+dependencies {
+...
     implementation 'com.bandiago.libs:simplegraph:0.0.1-SNAPSHOT'
+}
 ~~~
 
 Also add repository url to project's build.gradle file
