@@ -32,3 +32,7 @@ and then in your code you can do something like this:
         val series = arrayOf(0f, 1f, 2f, 8f, 5f, 13f, 4f, 3f, 0f)
         lineGraph.addSeries(series)
 ~~~
+
+The result for this simple setup would be:
+
+![Alt text](img/screenshot.jpeg?raw=true "Screenshot")
