@@ -1,7 +1,5 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
-//apply plugin: 'com.android.library'
-//apply from: 'maven-push.gradle'
 
 android {
     compileSdkVersion 28
@@ -37,3 +35,5 @@ dependencies {
 repositories {
     mavenCentral()
 }
+
+apply from: 'maven-push.gradle'
