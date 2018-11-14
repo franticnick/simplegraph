@@ -23,7 +23,7 @@ To use view in your own project simply define
 and than in your code yuo can do something like this:
 
 ~~~kotlin
-val lineGraph = findViewById<LineGraph>(R.id.lineGraph)
+        val lineGraph = findViewById<LineGraph>(R.id.lineGraph)
         val series = arrayOf(0f, 1f, 2f, 8f, 5f, 13f, 4f, 3f, 0f)
         lineGraph.addSeries(series)
 ~~~
