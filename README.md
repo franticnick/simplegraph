@@ -7,6 +7,8 @@ Why this library is craeted? Well, I've spent too much time looking for library 
 
 Usage is simple as posible. View takes series of float numbers (Y axis points) and draws the graph. X-axis point values are not needed since library uses same spacing between each consecutive point.
 
+##Sample Usage
+
 To use view in your own project simply use linegraph view in your project, like:
 
 ~~~xml
@@ -60,4 +62,22 @@ allprojects {
         }
     }
 }
+~~~
+
+#License
+
+~~~
+Copyright 2018 Nikola Šoljaga
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 ~~~
