@@ -25,8 +25,8 @@ To use view in your own project simply use linegraph view in your project, like:
 ~~~
 
 There are two properties you can use in the view. Their names are self-explanatory:
- - <span style="color:blue">lineThickness</span>
- - <span style="color:blue">lineColor</span>
+ - **lineThickness**
+ - **lineColor**
  
 
 and then in your code you can do something like this:
