@@ -45,7 +45,7 @@ To include simple graph to your project, simply add next line to app's **build.g
 
 ~~~gradle
 dependencies {
-    implementation 'com.bandiago.libs:simplegraph:0.0.1-SNAPSHOT'
+    implementation 'com.bandiago.libs:simplegraph:0.0.2'
 }
 ~~~
 
