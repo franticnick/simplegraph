@@ -49,21 +49,6 @@ dependencies {
 }
 ~~~
 
-Also add sonatype snapshots repository url to project's **build.gradle** file
-
-~~~gradle
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        // add sonatype repository
-        maven {
-            url 'https://oss.sonatype.org/content/repositories/snapshots/'
-        }
-    }
-}
-~~~
-
 ## License
 
 ~~~
