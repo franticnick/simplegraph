@@ -1,11 +1,11 @@
 # Simplegraph
-Simplegraph is Android custom view that shows simple graphs similar to the ones you see on coin trading/exchange sites.
+Simplegraph is Android custom view that can generate graphs similar to the ones you see on coin trading/exchange sites.
 
-If you clone the whole project, main app is a sample that you can run and see how simplegraph library located in module "simplebraph" is used.
+If you clone the whole project, main app is a sample app that you can run and see simplegraph functionality in action.
 
-Why this library is craeted? Well, I've spent too much time looking for library that does only one thing, and that is, creates graph for simple representation of values over time. Sure, there are already some nice libraries out there that can do the job, but I needed something super simple and tiny. And that is why I had to create "Simplegraph" :) So, if anyone needs same functionality in their projects, here it is.
+Why this library is out there? Well, I've spent too much time looking for library that does only one thing, and that is, creates graph for simple representation of values over time. Sure, there are already some nice libraries out there that can do the job, but I needed something super simple and tiny. And that is why I had to create "Simplegraph". And now, if anyone needs same functionality in their projects, here it is.
 
-Usage is simple as posible. View takes series of float numbers (Y axis points) and draws the graph. X-axis point values are not needed since library uses same spacing between each consecutive point.
+Usage is as simple as posible. View takes series of float numbers (Y axis points) and draws the graph. X-axis point values are not needed since library uses same spacing between each consecutive point.
 
 ## Sample Usage
 
