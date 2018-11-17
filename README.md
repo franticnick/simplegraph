@@ -37,7 +37,7 @@ and then in your code you can do something like this:
         lineGraph.addSeries(series)
 ~~~
 
-The result for this simple setup would be:
+Example of use ("Tokenizer Wallet" - Bandiago, available on Play Store)
 
 ![Alt text](img/screenshot.jpg?raw=true "Screenshot")
 
