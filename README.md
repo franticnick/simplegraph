@@ -48,10 +48,9 @@ dependencies {
 
 ## Example of use 
 
-Screenshot is taken from app: "Tokenizer Wallet" by Bandiago that is available on Play Store. if you are into crypto you might find it interesting.
-
 ![Alt text](img/screenshot.jpg?raw=true "Screenshot")
 
+Screenshot is taken from the app: "Tokenizer Wallet" by Bandiago. You can find it on Play Store and if you are into crypto it's worth checking out.
 
 
 ## License
