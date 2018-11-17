@@ -37,17 +37,22 @@ and then in your code you can do something like this:
         lineGraph.addSeries(series)
 ~~~
 
-Example of use ("Tokenizer Wallet" - Bandiago, available on Play Store)
-
-![Alt text](img/screenshot.jpg?raw=true "Screenshot")
-
-To include simple graph to your project, simply add next line to app's **build.gradle** file
+To use simplegraph in your projects add dependency in app's **build.gradle** file
 
 ~~~gradle
 dependencies {
     implementation 'com.bandiago.libs:simplegraph:0.0.2'
 }
 ~~~
+
+
+## Example of use 
+
+Screenshot is taken from app: "Tokenizer Wallet" by Bandiago that is available on Play Store. if you are into crypto you might find it interesting.
+
+![Alt text](img/screenshot.jpg?raw=true "Screenshot")
+
+
 
 ## License
 
